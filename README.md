@@ -40,5 +40,5 @@ Place your video file in the project directory and update the script to use the 
 ### Run the script:
 
 
-python parking_detection.py
+
 The script will process the video frames and display the result in a new window, showing the availability of parking spaces.
