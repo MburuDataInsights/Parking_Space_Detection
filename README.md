@@ -29,7 +29,7 @@ Detection Thresholds: Adjust the detection thresholds and parameters within the 
 
 bash
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/MburuDataInsights/Parking_Space_Detection
 Navigate to the project directory:
 
 bash
